@@ -15,7 +15,9 @@ npm install
 
 ## Usage
 Navigate to where server.js is located
+
 Run the installation commands
+
 To start the server type npm start
 
 ## Videos
